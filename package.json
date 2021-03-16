@@ -1,6 +1,5 @@
 {
   "name": "eportfolio",
-  "homepage": "https://{username}.github.io/{repository}",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
