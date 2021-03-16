@@ -1,5 +1,6 @@
 {
-  "name": "eportfolio",
+  "name": "portfolio",
+  "homepage": "https://jtangtran.github.io/eportfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
